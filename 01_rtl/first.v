@@ -1,4 +1,6 @@
-module first( );
+module first(
+    input a
+ );
 
 
 
